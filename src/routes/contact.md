@@ -1,6 +1,6 @@
 ---
 label: Contact
-title: Contact Us
+title: Contact
 nav_label: contact
 ---
 Test
